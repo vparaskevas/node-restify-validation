@@ -29,11 +29,11 @@
   "main": "lib/index",
   "readmeFilename": "README.md",
   "dependencies": {
-    "lodash": "3.10.x",
-    "validator": "3.22.x"
+    "lodash": "4.17.4",
+    "validator": "9.1.1"
   },
   "devDependencies": {
-    "restify": ">=2.8.1 <5.0.0",
+    "restify": "^6.3.2",
     "mocha": "3.1.x",
     "sinon": "1.11.x",
     "should": "11.1.x",
